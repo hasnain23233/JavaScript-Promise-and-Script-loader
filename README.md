@@ -3,7 +3,9 @@ This repository demonstrates the usage of JavaScript Promises to handle asynchro
 
 # Table of Contents
 Description
+
 Features
+
 License
 
 # Description
